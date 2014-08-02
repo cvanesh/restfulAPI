@@ -21,6 +21,12 @@ $ git remote add origin https://github.com/cvanesh/restfulAPI.git
 $ git push -u origin master
 ```
 
+###Steps for Second commit
+```sh
+$ git commit -a -m "adding git steps"
+$ git push -u origin master
+```
+
 ###To try the app
 ```sh
 $ git clone https://github.com/cvanesh/restfulAPI.git
